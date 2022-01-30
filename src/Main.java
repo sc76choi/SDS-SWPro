@@ -16,8 +16,8 @@ public class Main {
 
 		T = Integer.parseInt(br.readLine());
 		
-		{
-			bw.write("#"+T+" " + ans + " ");
+		for(int i=0; i < T; i++){
+			bw.write("#"+i+" " + ans + " ");
 			bw.write("\n");
 		} // end of tc
 		
