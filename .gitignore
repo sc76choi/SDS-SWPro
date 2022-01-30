@@ -1,0 +1,7 @@
+.project
+.vscode
+.classpath
+*.txt
+*.class
+*SWPro.pptx
+bin/
